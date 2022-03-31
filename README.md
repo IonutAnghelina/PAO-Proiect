@@ -1,6 +1,6 @@
 # PAO-Proiect
 
-# This project's theme is organizing the activity of a library.
+This project's theme is organizing the activity of a library.
 
 It contains an interface Item, which all further item classes will implement.
 
